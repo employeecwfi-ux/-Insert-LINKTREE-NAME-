@@ -1,0 +1,24 @@
+[insert warm welcome and mission statement]
+
+****START HERE******
+
+[insert benefits on account creation]
+[insert handshake profile creation link]
+[insert helpful pictures and accessiblity features such as screen readers, etc.]
+
+Complete Account Creation
+
+[insert collection description] For every major offered at the community college of denver, and every certificate, and every pathway, we have created a dedicated collection
+List of steps:
+***Each step after step 1. assumes that the previous step has been completed***
+
+1. ***If you do not know your major you can login to DegreeWorks and find your program name
+2. Search this repository using your program name
+3.0 follow visuals or proceed according to step 3
+3. Read relevant information about the collection, and/or Click the link Associated with the Program Name, follow the collection
+
+Search for your collection within this github repository
+Click the link associated with that collection
+
+
+[insert collections link]
